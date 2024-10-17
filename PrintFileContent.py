@@ -1,5 +1,5 @@
 file_path = "SimpleTextfile.txt"
-file_object = open(file_path)
+file_object = open(file_path,"r")
 
 print(file_object)
 
